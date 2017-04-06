@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Hello. I'm Ashutosh Dave.</title>
+ <link href="http://ashutoshdave.com/atom.xml" rel="self"/>
+ <link href="http://ashutoshdave.com/"/>
+ <updated>2017-04-07T00:26:57+05:30</updated>
+ <id>http://ashutoshdave.com</id>
+ <author>
+   <name>Ashutosh Dave</name>
+   <email>ashutosh_dave(at)outlook.com</email>
+ </author>
+
+ 
+
+</feed>

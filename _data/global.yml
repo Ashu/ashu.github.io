@@ -1,0 +1,14 @@
+# Site Settings
+title: "Hello. I'm Ashutosh Dave."
+description: "I make iPhone/iPad apps at LiveBird Technologies Pvt. Ltd."
+url: 'http://ashutoshdave.com' # the base hostname & protocol for your site
+nav: "true"
+footer_text: '© 2017 Ashutosh Dave'
+twitter: 'ashutoshdave'
+github: 'ashu'
+medium: 'medium.com/@ashutoshDave'
+
+# Admin Settings
+admin_name: 'Ashutosh Dave'
+admin_email: 'ashutosh_dave(at)outlook.com'
+google_analytics: "" # Update with your own tracking ID

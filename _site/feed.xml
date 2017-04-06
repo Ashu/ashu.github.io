@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello. I'm Ashutosh Dave.</title>
+    <description>I make iPhone/iPad apps at LiveBird Technologies Pvt. Ltd.</description>
+    <link>http://ashutoshdave.com/</link>
+    <atom:link href="http://ashutoshdave.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 07 Apr 2017 00:26:57 +0530</pubDate>
+    <lastBuildDate>Fri, 07 Apr 2017 00:26:57 +0530</lastBuildDate>
+    <generator>Jekyll v3.2.0</generator>
+    
+  </channel>
+</rss>
